@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DR-FREKE/TowerHanoi/issues"
   },
-  "homepage": "https://github.com/DR-FREKE/TowerHanoi#readme"
+  "homepage": "https://github.com/DR-FREKE/TowerHanoi#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
