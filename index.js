@@ -37,4 +37,5 @@ function towerHanoi(n) {
 //   second = third;
 //   third = temp;
 // }
-console.log(towerHanoi(3));
+// console.log(towerHanoi(3));
+export default towerHanoi;
