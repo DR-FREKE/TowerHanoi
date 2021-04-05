@@ -38,4 +38,4 @@ function towerHanoi(n) {
 //   third = temp;
 // }
 // console.log(towerHanoi(3));
-module.export = towerHanoi;
+exports.towerHanoi = towerHanoi;
