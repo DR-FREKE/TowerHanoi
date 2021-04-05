@@ -1,0 +1,19 @@
+{
+  "name": "towerhanoi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DR-FREKE/TowerHanoi.git"
+  },
+  "author": "Solomon Ndifereke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DR-FREKE/TowerHanoi/issues"
+  },
+  "homepage": "https://github.com/DR-FREKE/TowerHanoi#readme"
+}
