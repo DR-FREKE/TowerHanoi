@@ -1,4 +1,4 @@
-function towerHanoi(n) {
+const towerHanoi = (n) => {
   let totalStep = 1;
 
   if (n === 0) {
@@ -14,5 +14,5 @@ function towerHanoi(n) {
   }
 
   return totalStep;
-}
+};
 exports.towerHanoi = towerHanoi;
